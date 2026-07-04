@@ -104,5 +104,10 @@ print(f" the total of the list: {sum(no)}")
 l2 = [[1,0], [2,3], [4,5,[6,7]]]
 print(l2[-1][-1][-1])
 
+# Membership operator 
+# min() is to find the smallest number 
+# max() is to find the biggest number
+# sum() is to find the total of the number list
+
 
        
