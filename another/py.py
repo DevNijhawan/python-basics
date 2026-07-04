@@ -1,1 +1,3 @@
 # i was learning github to this is the first code i push to github
+# i was learning github to this is the first code i push to github# i was learning github to this is the first code i push to github
+# i was learning github to this is the first code i push to github
