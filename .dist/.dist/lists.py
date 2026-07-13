@@ -4,7 +4,7 @@
 
 l1 = [ 1, 4, 5, 6, 7, 8, 9,]
 print(l1[1:7:3])
-
+'''
 # concatenation in list
  
 l2 = [1, 2, 3]
@@ -110,3 +110,4 @@ print(l2[-1][-1][-1])
 # max() is to find the biggest number
 # sum() is to find the total of the number list 
 
+'''

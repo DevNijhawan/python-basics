@@ -38,15 +38,15 @@ print(s2.replace("java","python"))
 
 # Next operator is count = to count string in a sentence = s1.count()
 
-'''
-print(s1.lower("sentences are in the lower"))
-print(s1.upper("sentences are in the upper"))
-print(s1.title("first letter of the words in the sentences are upper")""
-print(s1.capitalize(only the first letter of the first word of the sentence are upper))
-'''
+s3 = "I am learning java"
+
+print(s3.lower())  # sentences are in the lower
+print(s3.upper())  # sentences are in the upper
+print(s3.title())  # first letter of the words in the sentences are upper
+print(s3.capitalize())  # only the first letter of the first word of the sentence are upper
+
 
 # startwith()
 # endswith()
-# startwith()
-# startwith()
+
 
