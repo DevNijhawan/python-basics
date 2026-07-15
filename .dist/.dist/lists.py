@@ -2,9 +2,9 @@
 
 # slicing of list
 
-l1 = [ 1, 4, 5, 6, 7, 8, 9,]
-print(l1[1:7:3])
-'''
+l1 = [ 1, 4, 5, 6, 7, 8, 9, 10, 11]
+print(l1[1:8:3])
+
 # concatenation in list
  
 l2 = [1, 2, 3]
@@ -70,7 +70,7 @@ print(nums)
 # list is sort in ascending order
 # if we want to sort in decencding order
 # syntax - item.list(reverse = True)
-# syntax - item.list(reverse = True)
+
 
 nums = [1,4,7,3,8,9,5,2,]
 nums.sort()
@@ -95,7 +95,7 @@ print(f"The occurence of the {item_to_count} is {w}")
 # sum() is to find the total of the number list 
 
  
-no = [1,3,4,66,9999,25378]
+no = [1,3,4,65,9999,25378 - 450 ]
 print(f" the smalles number in the list: {min(no)}")
 print(f" the biggest number in the list: {max(no)}")
 print(f" the total of the list: {sum(no)}")
@@ -105,9 +105,4 @@ l2 = [[1,0], [2,3], [4,5,[6,7]]]
 print(l2[-1][-1][-1])
 
 
- # Membership operator 
-# min() is to find the smallest number 
-# max() is to find the biggest number
-# sum() is to find the total of the number list 
 
-'''
