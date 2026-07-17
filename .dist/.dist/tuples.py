@@ -44,3 +44,17 @@ print(faah.index(7))
 print(f"the minimum value in the tuple is: {min(faah)}")
 print(f"the maximum value in the tuple is: {max(faah)}")
 print(f"the sum of all the items in the tuple is: {sum(faah)}")
+
+# list are mutuable
+# tuples and strings are immutable
+
+# if we want to change the existing list 
+# but we cannot change the existing tuple or string
+# thats why we use tuples when we want to store data that should not be changed
+
+l1 = [" pyhton", "java", "c++", "c#",]
+# we can modiyfy list by using indexing
+l1[-1] = "javascript"
+print(l1)
+
+# that solve for tuples
