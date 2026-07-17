@@ -104,5 +104,14 @@ print(f" the total of the list: {sum(no)}")
 l2 = [[1,0], [2,3], [4,5,[6,7]]]
 print(l2[-1][-1][-1])
 
+# in list we have function called copy
+# syntax - copy.copy() this is shallow copy 
+# shallow copy means we copy the list but the address are different 
+# in list we have function called deepcopy
+# syntax - copy.deepcopy() this is deep copy
+# in deep copy also list address are different
+# difference b\w is shallow copy not changing address in innerlist but deep copy does 
+
+
 
 
