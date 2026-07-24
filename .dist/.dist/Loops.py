@@ -42,7 +42,17 @@ item = ["chips","kurkure","salt","sugar","bread"]
 for g in range(len(item)):
     print(g)
 
-# next we 
+
+profit = [ 14, 55 ,73, 90]
+
+for a in range(5):
+    q = a + 1
+    print(f"the total queater of {q} in {profit(a)}")
+    
+
+
+
+
 
 
 
