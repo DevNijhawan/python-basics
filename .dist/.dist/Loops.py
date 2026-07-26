@@ -50,6 +50,8 @@ for a in range(5):
     print(f"the total queater of {q} in {profit(a)}")
     
 
+    
+
 
 
 
