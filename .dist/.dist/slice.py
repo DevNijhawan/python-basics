@@ -43,7 +43,7 @@ s3 = "I am learning java"
 print(s3.lower())  # sentences are in the lower
 print(s3.upper())  # sentences are in the upper
 print(s3.title())  # first letter of the words in the sentences are upper
-print(s3.capitalize())  # only the first letter of the first word of the sentence are upper
+print(s3.capitalize())  # only the first letter of the first words of the sentence are upper
 
 
 # startwith()
