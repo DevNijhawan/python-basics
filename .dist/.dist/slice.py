@@ -46,6 +46,7 @@ print(s3.title())  # first letter of the words in the sentences are upper
 print(s3.capitalize())  # only the first letter of the first words of the sentence are upper
 
 
+
 # startwith()
 # endswith()
 

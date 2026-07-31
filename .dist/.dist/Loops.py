@@ -50,7 +50,9 @@ for a in range(len(profit)):
     print(f"Profit of quater {q} is {profit[a]}")
 
 
-# Find min and max and total number of integer using loop
+# Find min and max and total number of integer using loops
+
+
 
 
 
