@@ -65,7 +65,7 @@ nums.reverse()
 print(nums)
 
 
-# if we want to sort the list we have a fun called sort
+# if we want to sort the lists we have a fun called sort
 # syntax - item.sort()
 # list is sort in ascending order
 # if we want to sort in decencding order

@@ -21,7 +21,7 @@ print("hello everyone. \\ how are you")
 print("hello everyone. \' how are you")
 
 
-#In string, star(*) operation is repetition operator
+#In strings, star(*) operation is repetition operator
 
 s1 = 'Dev Nijhawan'
 

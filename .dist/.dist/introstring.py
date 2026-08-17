@@ -8,7 +8,7 @@ print(nameshort) # character print
 fool1 = name[8]
 print(fool1)
 
-# Negative slicing of string
+# Negative slicing of strings
 name = "DevNijhawan"
 
 print(name[0:3])

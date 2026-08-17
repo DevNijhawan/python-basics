@@ -77,7 +77,7 @@ print(s1.items(), type(s1.items()))
 # shallow copy means we copy the dict but the address are different 
 # in dict we have function called deepcopy
 # syntax - copy.deepcopy() this is deep copy
-# in deep copy also dict address are different
+# in deep copy also dict address are differents
 # difference b\w is shallow copy not changing address in innerlist but deep copy does 
  
 

@@ -20,7 +20,7 @@ student2 = ("Nijhawan", 21, "Java")
 student = student1 + student2
 print(student)
 
-# Repetition of tuple is done using * operator
+# Repetition of tuples is done using * operator
 
 student3 = student1 * 3
 print(student3)

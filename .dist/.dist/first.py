@@ -1,4 +1,4 @@
-#print("hello world")
+#print('hello worl')
 #name = input("Enter your name:")
 #print(f"good afternoon{name}")
 

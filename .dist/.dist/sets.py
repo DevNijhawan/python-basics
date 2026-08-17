@@ -37,7 +37,7 @@ print(no) # this will print {1, 2, 3, 4}
 no.add(6) # this will add 6 to the set
 print(no) # this will print {1, 2, 3, 4, 6}
 
-# There is another fucntion called discard() which is used to remove an element from a set but it does not give error if the element is not present in the set
+# There is another fucntion called discard() which is used to remove an element from a sets but it does not give error if the element is not present in the set
 no.discard(7) # this will not give error because 7 is not present in the set
 print(no) # this will print {1, 2, 3, 4, 6} 
 
