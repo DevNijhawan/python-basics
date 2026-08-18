@@ -4,7 +4,7 @@
 # A for loop in Python is used to repeat a block of code for each item in a sequence 
 # (such as a list, string, tuple, dictionary, or range).
 
-"""
+
 fruits = "banana apple orange grapes"
 
 print()
@@ -34,7 +34,7 @@ print("Happy Birthday")
 
 for p in range(10):
     print(p)
-    """
+    
 
 
 item = ["chips","kurkure","salt","sugar","bread"]
@@ -46,6 +46,7 @@ for g in range(len(item)):
 profit = [ 14, 55 ,73, 90]
 
 for a in range(len(profit)):
+    print(a)
     q = a + 1
     print(f"Profit of quater {q} is {profit[a]}")
 
