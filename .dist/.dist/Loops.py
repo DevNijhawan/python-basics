@@ -46,8 +46,8 @@ for g in range(len(item)):
 profit = [ 14, 55 ,73, 90]
 
 for a in range(len(profit)):
-    print(a)
-    q = a + 1
+   
+    q = 1 + a
     print(f"Profit of quater {q} is {profit[a]}")
 
 
