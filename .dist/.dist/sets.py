@@ -60,7 +60,7 @@ all_names = (student1.union(student2))
 print(all_names) # this will print {'dev', 'kunal', 'sahil', 'rohit', 'yash'} because these are all the elements from both sets
 # |(pipe) operator can also be used to find the union of two sets
 all_names = (student1 | student2)
-print(all_names) # this will print {, 'kunal', 'sahil', 'rohit', 'yash'}
+print(all_names) # this will print {, 'kunal', 'sahil', 'rohit', 'yash'} because these are all the elements from both sets
 
 # if we have to find between three sets then we can use intersection and union of sets like
 student3 = {"dev", "kunal", "sahil", "aman","vishal"}
