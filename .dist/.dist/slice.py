@@ -34,11 +34,11 @@ print("z" not in s1)
 
 s2 = "I am learning java"
 print(s2)                               #replace function to replace words= s2.replace()
-print(s2.replace("java","python"))
+print(s2.replace("C","python"))
 
 # Next operator is count = to count string in a sentence = s1.count()
 
-s3 = "I am learning java"
+s3 = "I am learning C"
 
 print(s3.lower())  # sentences are in the lower
 print(s3.upper())  # sentences are in the upper
