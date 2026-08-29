@@ -22,7 +22,7 @@ print(l1) # this will print [1, 2, 3, 4, 5, 1, 2, 3, 4, 5] because list allows d
 # basic operations on sets
 
 # membership operator in , not in
-no = {1, 2, 3, 4, 5}
+no = {1, 2, 3, 4, 5 ,6}
 print(1 in no) # this will print True because 1 is present in the set
 print(6 in no) # this will print False because 6 is not present in the set
 print(6 not in no) # this will print True because 6 is not present in the set
