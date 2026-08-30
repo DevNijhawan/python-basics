@@ -12,7 +12,7 @@ print(type(s1))
 
 #print(s1[0])  # this will give error because sets are unordered and we cannot do indexing in sets
 
-s2 = {1, 2, 3, 4, 5, 1, 2, 3, 4, 5}
+s2 = {1, 2, 3, 4, 5, 6,1, 2, 3, 4, 5,6}
 print(s2) # this will print {1, 2, 3, 4, 5} because sets do not allow duplicate elements
 
 # but in list we can have duplicate elements 
