@@ -75,7 +75,7 @@ diff_names = (student1.difference(student2))
 print(diff_names) # this will print {'rohit'} because this is the element which is present in student1 but not in student2
 # -(minus) operator can also be used to find the difference of two sets
 diff_names = (student1 - student2)
-print(diff_names) # this will print {'rohit'} because this is the element which is
+print(diff_names) # this will print {'dev'} because this is the element which is
 
 
 # sets are mutable
