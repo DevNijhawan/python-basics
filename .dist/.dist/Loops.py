@@ -53,8 +53,27 @@ for a in range(len(profit)):
 
 # Find min and max and total number of integer using loops and tuples
 
+runs = [ 14, 55 ,73, 90, 100, 200, 300, 400, 500]
+
+total = 0
+for run in runs:
+    total = total + run
+print(f"total runs is {total}")
 
 
+# highest and lowest runs
+highest = runs[0]
+lowest = runs[0]
+for run in runs:
+    if run > highest:
+        highest = run
+    elif run < lowest:
+        lowest = run
+print(f"highest runs is {highest}")
+print(f"lowest runs is {lowest}")
+
+print(max(runs))
+print(min(runs))
 
 
 
