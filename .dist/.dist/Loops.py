@@ -75,6 +75,23 @@ print(f"lowest runs is {lowest}")
 print(max(runs))
 print(min(runs))
 
+for num in range(20):
+    if num % 3 == 0:
+        print(f"{num} is divisible by 3")
+        continue
+
+for num in range(50):
+    if num % 5 == 0:
+        print(f"{num} is divisible by 5")
+        break
+
+# continue statement is used to skip the current iteration of a loop and move on to the next iteration.
+#break statement is used to exit a loop prematurely, stopping the loop from executing any further iterations.
+
+
+
+
+
 
 
 
