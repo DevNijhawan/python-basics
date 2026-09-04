@@ -23,7 +23,7 @@ for i in range(3, 33, 3):
     print(i)
 
 # next range function is 
-#range(start,stop): this is use for that code that has default step 1 it will not chang
+#range(start,stop): this is use for that code that has default step 1 it will not change
 
 for w in range(1,4):
     print(w)
