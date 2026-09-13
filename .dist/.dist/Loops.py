@@ -91,7 +91,7 @@ for num in range(50):
 
 
 # While loop
-
+# A while loop in Python is used to repeatedly execute a block of code as long as a specified condition is true.
 
 
 
