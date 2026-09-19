@@ -72,7 +72,7 @@ print(nums)
 # syntax - item.list(reverse = True)
 
 
-nums = [1,4,7,3,8,9,5,2,]
+nums = [1,4,7,3,8,9,5,2,3]
 nums.sort()
 print(nums)
 nums.sort(reverse=True)
