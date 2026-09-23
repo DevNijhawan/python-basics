@@ -19,7 +19,7 @@ d = 5==5
 print(d)
 
 
-# Logical Operators
+# Logical Operator
 
 e = True or False
 
