@@ -97,7 +97,10 @@ for num in range(50):
 # nested loop is a loop inside a loop. The inner loop will be executed for each iteration of the outer loop.
 
 
-
+num = 1
+while num <= 10:
+    print(num)
+    
 
 
 
