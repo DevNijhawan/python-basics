@@ -100,6 +100,7 @@ for num in range(50):
 num = 1
 while num <= 10:
     print(num)
+    num += 1
     
 
 
