@@ -100,7 +100,11 @@ for num in range(50):
 num = 1
 while num <= 10:
     print(num)
-    num += 1
+    num = num + 1
+
+#infinite loop is a loop that runs indefinitely, meaning it continues to execute without a defined termination condition.
+
+
     
 
 
