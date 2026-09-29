@@ -103,7 +103,7 @@ while num <= 10:
     num = num + 1
 
 #infinite loop is a loop that runs indefinitely, meaning it continues to execute without a defined termination condition.
-
+'''
 correct_password = "python123"
 
 while True:
@@ -113,7 +113,25 @@ while True:
         break
     else:
         print("Incorrect password. Please try again.")
-    
+      
+
+
+correct_pin = "2222"
+
+while True:
+    pin = input("Enter your pin: ")
+    if pin == correct_pin:
+        print("thanks for using our ATM")
+        break
+    else:
+        print("Payment failed. Please try again.")
+        '''
+
+
+
+
+
+
 
 
 
