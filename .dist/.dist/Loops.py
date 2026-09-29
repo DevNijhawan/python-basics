@@ -104,7 +104,15 @@ while num <= 10:
 
 #infinite loop is a loop that runs indefinitely, meaning it continues to execute without a defined termination condition.
 
+correct_password = "python123"
 
+while True:
+    password = input("Enter your password: ")
+    if password == correct_password:
+        print("logged in ")
+        break
+    else:
+        print("Incorrect password. Please try again.")
     
 
 
