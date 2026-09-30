@@ -135,6 +135,10 @@ print(random.random())
 #randint() function is to generate a and b icluding random integer between a and b
 print(random.randint(1,30))
 
+# if we have a list and we want a random element fron=m that list we can use choice() function
+
+nums = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+print(random.choice(nums))
 
 
 
