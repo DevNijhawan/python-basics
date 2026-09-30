@@ -144,6 +144,12 @@ print(random.choice(nums))
 random.shuffle(nums)
 print(nums)
 
+#nested loop is a loop that is placed inside another loop 
+
+for i in range(5):
+    for k in range(4):
+        print(f"i={i}, k={k}")
+
 
 
 
