@@ -128,7 +128,8 @@ while True:
         '''
 
 
-
+import random
+print(random.random())
 
 
 
