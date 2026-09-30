@@ -127,10 +127,13 @@ while True:
         print("Payment failed. Please try again.")
         '''
 
-
+# random module is a built-in Python module that provides functions for generating random numbers and performing random operations. It allows you to generate random integers, floating-point numbers, and even select random elements from sequences like lists or strings.
+# it between 0.0 and 1.0(excluding 1.0))
 import random
 print(random.random())
 
+#randint() function is to generate a and b icluding random integer between a and b
+print(random.randint(1,30))
 
 
 
