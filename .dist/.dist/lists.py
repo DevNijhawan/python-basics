@@ -95,14 +95,14 @@ print(f"The occurence of the {item_to_count} is {w}")
 # sum() is to find the total of the number list 
 
  
-no = [1,3,4,65,9999,25378 - 450 ]
-print(f" the smalles number in the list: {min(no)}")
-print(f" the biggest number in the list: {max(no)}")
-print(f" the total of the list: {sum(no)}")
+noo = [1,3,4,65,9999,25378 - 450 ]
+print(f" the smalles number in the list: {min(noo)}")
+print(f" the biggest number in the list: {max(noo)}")
+print(f" the total of the list: {sum(noo)}")
 
 
 l2 = [[1,0], [2,3], [4,5,[6,7]]]
-print(l2[-1][-1][-1])
+print(l2[-1][-1][-2])
 
 # in list we have function called copy
 # syntax - copy.copy() this is shallow copy 
