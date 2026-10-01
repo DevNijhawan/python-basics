@@ -1,6 +1,6 @@
 # difference between list and tuple is that list is mutable and tuple is immutable
 # tuples are created using parentheses ()
-# 
+# lists are created using square brackets []
 
 t = 1, 2, 3, 4, 5, 6, 7, 8, 9
 print(t)
