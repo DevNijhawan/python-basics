@@ -52,3 +52,5 @@ print(s3.capitalize())  # only the first letter of the first words of the senten
 # endswith()
 
 
+print(s3.startswith("I am learning"))
+print(s3.endswith("C"))
