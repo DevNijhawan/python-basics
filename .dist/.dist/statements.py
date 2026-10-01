@@ -33,10 +33,11 @@ True
 
 
 age = float(input("wht is the age of kunal  :"))
-
+'''
 if age >= 18:
     print("congratulation kunal you became adult you can now vote ")
-print("sorry")
+    
+    
 
 # if-else 
 
@@ -50,7 +51,7 @@ if age >= 18:
 else: 
     print("Sorry kunal you cant vote ")
 print("thanks")
-
+'''
 # when we have do division in statemnts there is function called % 
 
 num = int(input( "what is the number :"))
