@@ -156,8 +156,23 @@ for i in range(5):
 
 for i in range(1,6):
     for j in range(i):
-        print("@", end="") 
+        print("@", end=" ") 
     print()  # Move to the next line after each row
+
+import random
+
+print("Welcome to the game")
+
+while True:
+    choice = input("press 'enter' to play the game or press 'q' to quit: ")
+    if choice == 'q':
+        print("Thanks for playing the game")
+        break
+    elif choice == '':
+        number = random.randint(1,6)
+        print(f"you rolled a {number}")
+    else:
+        print("Invalid input. Please try again.")
 
 
 
