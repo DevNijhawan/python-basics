@@ -78,11 +78,13 @@ for num in range(20):
     if num % 3 == 0:
         print(f"{num} is divisible by 3")
         continue
+    print(num)
 
-for num in range(50):
+for num in range(1,50):
     if num % 5 == 0:
         print(f"{num} is divisible by 5")
         break
+    print(num)
 
 # continue statement is used to skip the current iteration of a loop and move on to the next iteration.
 #break statement is used to exit a loop prematurely, stopping the loop from executing any further iterations.
@@ -99,7 +101,7 @@ for num in range(50):
 num = 1
 while num <= 10:
     print(num)
-    num = num + 1
+    num = num + 2
 
 #infinite loop is a loop that runs indefinitely, meaning it continues to execute without a defined termination condition.
 '''
@@ -134,7 +136,7 @@ print(random.random())
 #randint() function is to generate a and b icluding random integer between a and b
 print(random.randint(1,30))
 
-# if we have a list and we want a random element fron=m that list we can use choice() function
+# if we have a list and we want a random element from that list we can use choice() function
 
 nums = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 print(random.choice(nums))
@@ -154,7 +156,7 @@ for i in range(5):
 
 for i in range(1,6):
     for j in range(i):
-        print("*", end="") 
+        print("@", end="") 
     print()  # Move to the next line after each row
 
 
