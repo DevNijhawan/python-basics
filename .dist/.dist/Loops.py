@@ -175,10 +175,12 @@ while True:
         print("Invalid input. Please try again.")
 
 
+countries = ["India", "USA", "UK", "Canada", "Australia"]
 
-
-
-
+for country in countries:
+    if country.startswith("U"):
+        
+        print(country)
 
 
     
