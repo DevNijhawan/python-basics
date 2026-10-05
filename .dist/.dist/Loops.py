@@ -177,10 +177,7 @@ while True:
 
 countries = ["India", "USA", "UK", "Canada", "Australia"]
 
-for country in countries:
-    if country.startswith("U"):
-        
-        print(country)
+
 
 
     
