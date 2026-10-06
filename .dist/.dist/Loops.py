@@ -175,7 +175,8 @@ while True:
         print("Invalid input. Please try again.")
 
 
-countries = ["India", "USA", "UK", "Canada", "Australia"]
+
+c
 
 
 
