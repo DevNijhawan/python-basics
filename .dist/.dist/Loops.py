@@ -172,7 +172,7 @@ while True:
         number = random.randint(1,6)
         print(f"you rolled a {number}")
     else:
-        print("Invalid input. Please try again.")
+        print("Invalid input. Please try again later .")
 
 
 
